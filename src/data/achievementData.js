@@ -18,7 +18,7 @@ export const achievementData = {
         },
         {
             id : 4,
-            title : 'The Fundamentals Of Digital Marketing byGoogle Digital Garage',
+            title : 'The Fundamentals Of Digital Marketing by Google Digital Garage',
             details : "The Fundamentals of Digital Marketing certificates from google provided the insights about digital marketing , covering topics such as search engine optimization, paid advertising ,social media and analytics."
         }
 
