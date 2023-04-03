@@ -3,7 +3,7 @@ export const educationData = [
         id: 1,
         institution: 'Shri Kanwartara Public Higher Secondary School, Mandleshwar',
         course: 'Higher Secondary Education',
-        startYear: '2008',
+        startYear: '2018',
         endYear: '2019'
     },
     {
